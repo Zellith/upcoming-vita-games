@@ -328,9 +328,9 @@
   gamewebsite: http://www.jp.playstation.com/scej/title/oreshika/2/
   devwebsite: http://playstation.com
   dateadd: 2015-02-12
-  releasedate: 
+  releasedate:2015-03-03
   western: true
-  released: false
+  released: true
 
 - name: Persona 4 Dancing All Night
   about: After streaming one of the tracks for the game in Pursuing My True Self from Persona 4, Atlus shared a look at the latest trailer for the game.
@@ -363,7 +363,7 @@
   dateadd: 2015-02-12
   releasedate: 
   western: true
-  released: false
+  released: true
 
 - name: Severed
   about: Take control of a one-armed heroine wielding a living sword as she knits together pieces of her story from both the past and the future.
@@ -451,7 +451,7 @@
   dateadd: 2015-02-12
   releasedate: 
   western: true
-  released: false
+  released: true
 
 - name: Steins;Gate
   about: Set in Akihabara the Mecca of Japanese anime culture Steins;Gate follows a group of friends who accidentally invent a method of sending messages to the past.
@@ -528,7 +528,7 @@
   dateadd: 2015-02-12
   releasedate: 
   western: true
-  released: false
+  released: true
 
 - name: Supermagical
   about: Defend your burrow from a horde of evil bunnies!
